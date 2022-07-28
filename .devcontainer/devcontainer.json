@@ -1,0 +1,5 @@
+{
+    "name": "dockerNode",
+    "dockerFile": "Dockerfile",
+    "appPort": 4200
+}
